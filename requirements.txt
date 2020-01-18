@@ -5,7 +5,7 @@ matplotlib
 numpy
 opencv-python
 Pillow
-pkg-resources
+# pkg-resources
 pycocotools
 pyparsing
 python-dateutil
